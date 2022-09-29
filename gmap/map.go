@@ -2,7 +2,7 @@
 // @author renshiwei
 // Date: 2022/9/28 19:51
 
-package util
+package gmap
 
 import (
 	"sync"
