@@ -2,7 +2,7 @@
 // @author renshiwei
 // Date: 2022/9/26 19:46
 
-package gtime
+package datatime
 
 import (
 	"fmt"

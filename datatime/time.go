@@ -2,7 +2,7 @@
 // @author renshiwei
 // Date: 2022/9/19 11:14
 
-package gtime
+package datatime
 
 import "time"
 
